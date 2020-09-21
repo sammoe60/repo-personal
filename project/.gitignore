@@ -1,0 +1,9 @@
+# Ignore the build directory.
+build
+
+# OSX automatically includes these, so ignore them as well.
+.DS_Store
+
+# Ignore html and latex folders
+/docs/html/*
+/docs/latex/*

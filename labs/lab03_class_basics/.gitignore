@@ -1,0 +1,4 @@
+*.o
+point2_unittest
+cluster
+gtest_main.a

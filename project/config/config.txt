@@ -1,0 +1,42 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, .025
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, .05
+STOP, Transitway at Commonwealth Avenue, 44.980753, -93.180669, .05
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, Buford at Gortner Avenue, 44.984482, -93.181657, .05
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Transitway at Commonwealth Avenue, 44.980663, -93.180808, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Ridder Arena, 44.978058, -93.229176, .05
+STOP, Pleasant Street at Jones-Eddy Circle, 44.978366, -93.236038, .1
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0
+
+ROUTE, Sanford Express Outbound
+
+STOP, Northrop Mall, 44.973683, -93.235447, .3
+STOP, Willey, 44.972557, -93.243959, .03
+STOP, Carlson, 44.970730, -93.245556, .1
+STOP, Mondale, 44.973216, -93.245821, .01
+STOP, Sanford, 44.980660, -93.239498, .15
+
+ROUTE, Sanford Express Inbound
+
+STOP, Sanford, 44.980660, -93.239498, .15
+STOP, 15th Ave, 44.979021, -93.235402, .1
+STOP, Rec Center, 44.976792, -93.229836, 0
+STOP, McNamara, 44.974810, -93.227107, .02
+STOP, Northrop Mall, 44.973683, -93.235447, .3
